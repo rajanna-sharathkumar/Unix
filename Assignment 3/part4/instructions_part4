@@ -1,0 +1,4 @@
+* Enter Sleep to make child sleep for 100 seconds
+* press ctrl + z to kill child
+* press ctrl + \ or ctrl + c to terminate the program
+* default action for ctrl + z is voided.
